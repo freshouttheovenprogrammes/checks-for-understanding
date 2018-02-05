@@ -38,7 +38,7 @@ Model, View, Controller.
   ```
 8. In the same code block, how would I pass a local variable `name` with a value of `Mr. Ed` to the view?
 9. What's the purpose of ERB?
-  Erb lets us do ruby things and have access to objects in our HTML code
+  ERB lets us do ruby things and have access to objects in our HTML code
 10. Why do I need a development AND test database?
   Because we don't want to test the data as much as we want to test what happens when we want to manipulate it into something new, so this means that we will be creating data while we test that we want to keep separate from our sensitive data.
 11. What is CRUD and why is it important?
