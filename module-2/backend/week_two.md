@@ -50,7 +50,7 @@ team4.owner
 
 5. In a database that's holding students and teachers, what will be the relationship between students and teachers? Draw the schema diagram.
 
-students belong_to teachers
+student has_many teachers
 teacher has_many students
 
 
